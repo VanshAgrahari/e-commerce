@@ -30,31 +30,11 @@ Make sure you have the following installed on your local machine:
 - Node.js
 - MongoDB
 
-### Installation
+ll-Stack-MERN-E-Commerce
 
-1. Clone the repository:
-    ```bash
-    https://github.com/kumarprince06/Full-Stack-MERN-E-Commerce.git
-    ```
 
-2. Navigate to the project directory:
-    ```bash
-    cd Full-Stack-MERN-E-Commerce
-    ```
 
-3. Install dependencies for both frontend and backend:
-
-    - Frontend:
-        ```bash
-        cd frontend
-        npm install
-        ```
-
-    - Backend:
-        ```bash
-        cd ../backend
-        npm install
-        ```
+ 
 
 ### Configuration
 
